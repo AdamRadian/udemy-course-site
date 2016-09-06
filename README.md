@@ -1,2 +1,0 @@
-# udemy-course-site
-Udemy
